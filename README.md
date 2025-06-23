@@ -1,6 +1,3 @@
-# histopathologic_cancer_detection
-Deep Learning - Histopathologic Cancer Detection Mini-Project
-
 ## Introduction to Deep Learning - Week 3 Project
 ## **Histopathologic Cancer Detection Mini-Project**
 
